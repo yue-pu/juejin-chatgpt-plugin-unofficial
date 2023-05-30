@@ -57,3 +57,8 @@ https://juejin-chatgpt-plugin-unofficial.puyuetest.workers.dev/
 > Current Deployment ID: ee17b6db-1ebe-4037-aedc-840ab8db5f55
 
 之后代码修改后再执行一次``wrangler deploy``就能更新云端
+  
+  
+# 关联仓库
+https://github.com/yue-pu/itty-router-openapi
+https://github.com/yue-pu/chatgpt-plugin 
