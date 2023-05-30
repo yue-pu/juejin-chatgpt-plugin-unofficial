@@ -1,4 +1,4 @@
-import { OpenAPIRouter } from "@cloudflare/itty-router-openapi";
+import { OpenAPIRouter } from "@cloudflare/itty-router-openapi";//这是一个路由仓库 https://github.com/cloudflare/itty-router-openapi
 import { GetSearch } from "./search";
 
 // 创建一个OpenAPI路由器
